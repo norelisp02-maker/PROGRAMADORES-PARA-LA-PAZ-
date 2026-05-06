@@ -1,0 +1,18 @@
+Pregunta 1 — Selección múltiple
+¿Qué es Git?
+
+Pregunta 2 — Selección múltiple
+¿Cuál es la función principal de un repositorio?
+
+Pregunta 3 — Selección múltiple
+¿Qué hace el comando git add .?
+
+Pregunta 4 — Selección múltiple
+¿Qué hace el comando git commit?
+
+Repositorio
+Commit
+Push
+Cada explicación debe tener al menos 2 o 3 líneas
+
+¿Por qué es importante que los proyectos de software mantengan un registro de cambios usando herramientas como Git?
